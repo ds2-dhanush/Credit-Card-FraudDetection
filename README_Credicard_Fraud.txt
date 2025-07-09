@@ -85,7 +85,6 @@ requirements.txt
 ---
 ## How to Run Locally
 ```bash
-git clone https://github.com/yourusername/fraud-detector.git
 cd fraud-detector
 pip install -r requirements.txt
 streamlit run app.py
@@ -122,6 +121,6 @@ The model pays most attention to **amount**, **distance**, **transaction hour**,
 ---
 ## Author
 **Dhanush R**  
-- Portfolio: https://yourusername.github.io  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/yourusername
+- Portfolio: https://ds2-dhanush.github.io/My-Portfolio/ 
+- LinkedIn: https://www.linkedin.com/in/dhanush-r-a12007287  
+- GitHub:   https://github.com/ds2-dhanush?tab=repositories
